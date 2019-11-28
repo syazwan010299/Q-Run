@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392282000242",
+    "firebase_url": "https://qrundatabase.firebaseio.com",
+    "project_id": "qrundatabase",
+    "storage_bucket": "qrundatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392282000242:android:cfdd00aff4276617b6abeb",
+        "android_client_info": {
+          "package_name": "com.example.q_run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392282000242-gpb24r4o9u3n5un6i5a2e55ccu7nce8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.q_run",
+            "certificate_hash": "1c9f241dc7deef75d7c6d1dc1fa1e5a26d053b02"
+          }
+        },
+        {
+          "client_id": "392282000242-hllrhts8ucr09fpqnmqoq00ki08uissi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAugJn16H5LrCVKSnj1VbHsf7wNbU8KQxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392282000242-hllrhts8ucr09fpqnmqoq00ki08uissi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
